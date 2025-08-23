@@ -22,9 +22,9 @@
 		"outerColor": [255, 252, 3],
 		"innerColor": [83, 0, 208],
 		"uniqueName": "Monument Builders",
-		"uniques": ["[+1000]% Production when constructing [All] wonders [in all cities]",
-		"[+400]% Production towards any buildings that already exist in the Capital",
-		"[-20]% Production when constructing [all] units [in all cities]"]
+		"uniques": ["[+100]% Production when constructing [All] wonders [in all cities]",
+		"[+100]% Production towards any buildings that already exist in the Capital",
+		"[+2 Production] from every [Tile]"]
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
